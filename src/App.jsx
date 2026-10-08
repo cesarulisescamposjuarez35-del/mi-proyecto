@@ -6,7 +6,7 @@ function App() {
     <div className="app">
       <header className="hero">
         <h1>🕷️ Spider-Man 🕷️</h1>
-        <p>Un Héroe, Muchas Aventuras</p>
+        <p>Un héroe que nunca se rinde</p>
       </header>
 
       <main>
